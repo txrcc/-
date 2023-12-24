@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(15,33): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(68,22): warning C4244: =: преобразование "long double" в "INT32", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(69,22): warning C4244: =: преобразование "long double" в "INT32", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(70,22): warning C4244: =: преобразование "long double" в "INT32", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(71,22): warning C4244: =: преобразование "long double" в "INT32", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(117,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(223,7): warning C4101: a: неиспользованная локальная переменная
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(291,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(312,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(318,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(333,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Users\User\source\repos\ИДЗ ООП\MyForm.cpp(419,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ИДЗ ООП.vcxproj -> D:\Users\User\source\repos\ИДЗ ООП\Debug\ИДЗ ООП.exe

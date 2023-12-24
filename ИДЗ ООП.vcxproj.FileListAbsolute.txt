@@ -1,0 +1,4 @@
+D:\Users\User\source\repos\ИДЗ ООП\Debug\ИДЗ ООП.vcxproj.AssemblyReference.cache
+D:\Users\User\source\repos\ИДЗ ООП\Debug\ИДЗООП.MyForm.resources
+D:\Users\User\source\repos\ИДЗ ООП\Debug\ИДЗ ООП.vcxproj.GenerateResource.cache
+D:\Users\User\source\repos\ИДЗ ООП\Debug\ИДЗ ООП.exe
